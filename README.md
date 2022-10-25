@@ -12,32 +12,4 @@ https://jsonplaceholder.typicode.com/posts?userId=1
 
 Artık elimizde kullanıcı bilgileri ve bu kullanıcının post'ları var. Bu iki veriyi birleştirip return edin. Birleştirme sonucunda elinizde aşağıdaki gibi bir obje bulunması gerekiyor.
 
-{
-	id: 1,
-	name: "Leanne Graham",
-	username: "Bret",
-	email: "Sincere@april.biz",
-	address: {
-		street: "Kulas Light",
-		suite: "Apt. 556",
-		city: "Gwenborough",
-		zipcode: "92998-3874",
-		geo: {
-			lat: "-37.3159",
-			lng: "81.1496"
-		}
-	},
-	phone: "1-770-736-8031 x56442",
-	website: "hildegard.org",
-	company: {
-		name: "Romaguera-Crona",
-		catchPhrase: "Multi-layered client-server neural-net",
-		bs: "harness real-time e-markets"
-	},
-	posts: [{
-		userId: 1,
-		id: 1,
-		title: "sunt aut facere repellat",
-		body: "quia et suscipit suscipit recusandae"
-	}]
-}
+![output](https://user-images.githubusercontent.com/97432389/197807666-b34753ee-1fb1-4023-8afe-46a0ed70c265.png)
